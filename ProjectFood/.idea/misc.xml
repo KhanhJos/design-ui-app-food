@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/card_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/category_background1.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/category_background2.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/category_background3.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/category_background4.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/category_background5.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/light_orange_back.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/orange_button_background.xml" value="0.1462837837837838" />
+        <entry key="..\:/ProjectFood/app/src/main/res/drawable/search_back.xml" value="0.22552083333333334" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/activity_card_list.xml" value="0.209375" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/activity_intro.xml" value="0.2" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/activity_show_detail.xml" value="0.209375" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/viewholder_card.xml" value="0.209375" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/viewholder_cat.xml" value="0.25" />
+        <entry key="..\:/ProjectFood/app/src/main/res/layout/viewholder_popular.xml" value="0.5" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/drawable/card_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/drawable/category_background1.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/drawable/category_background2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/drawable/orange_button_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/drawable/search_back.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/layout/activity_card_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/layout/activity_intro.xml" value="0.165" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/layout/viewholder_card.xml" value="0.1796875" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/layout/viewholder_cat.xml" value="0.1796875" />
+        <entry key="..\:/Users/PC1/Downloads/Android---App-Food--UI-master/ProjectFood/app/src/main/res/layout/viewholder_popular.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
